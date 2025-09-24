@@ -10,8 +10,8 @@ Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Le
 - Github
 
 ### Comandos de Configuración
-- git config --global user.name "Tu Nombre"
-- git config --global user.email "tu@email.com"
+- git config --global user.name "Jhordan"
+- git config --global user.email "jhordanjesus945@email.com"
 - git config --global core.editor "code -wait"
 - git config --list
 ### Comandos Básicos de Repositorio
